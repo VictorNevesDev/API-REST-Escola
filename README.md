@@ -116,9 +116,3 @@ Este projeto é uma API desenvolvida em Django Rest Framework (DRF) para gerenci
 - **MatriculaSerializer**: Serializa todos os campos do modelo `Matricula`.
 - **ListaMatriculasEstudanteSerializer**: Retorna o nome do curso e o período para matrículas associadas a um estudante.
 - **ListaMatriculasCursoSerializer**: Retorna os nomes dos estudantes matriculados em um curso.
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
